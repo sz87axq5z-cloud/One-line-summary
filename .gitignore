@@ -1,0 +1,21 @@
+# Node
+node_modules/
+.npmrc
+
+# Next.js
+.next/
+out/
+.next-static/
+
+# Env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Mac
+.DS_Store
